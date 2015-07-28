@@ -1,0 +1,14 @@
+{
+  "name": "gulp-rome-min",
+  "version": "0.1.0",
+  "description": "min html and js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "chrislearn young",
+  "license": "MIT",
+  "dependencies": {
+    "rome-min": "^0.1.0",
+    "through2": "^2.0.0"
+  }
+}
